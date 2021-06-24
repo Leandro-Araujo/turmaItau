@@ -1,3 +1,13 @@
+/* 
+Escreva um programa que recebe os 3 comprimentos de lados a, b, c. Determine a seguir o tipo de triângulo formado.
+
+Se a > b+c (para cada lado vale o mesmo) não formam triângulo algum. 
+
+Se forem todos iguais formam um triângulo equilátero. 
+Se a=b ou b=c ou a=c então formam um triângulo isósceles.
+Caso contrário forma um triângulo escaleno.
+*/
+
 package exercicios;
 
 import java.util.Scanner;

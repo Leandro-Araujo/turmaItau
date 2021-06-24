@@ -23,5 +23,6 @@ public class Exemplo5 {
         System.out.println("terceiro valor = " + c);
         System.out.printf("terceiro valor = %f\n", c);
         System.out.printf("terceiro valor = %.2f\n", c); // 2 casas decimais
+        System.out.printf("terceiro valor = %.2f\n", PI); 
     }
 }

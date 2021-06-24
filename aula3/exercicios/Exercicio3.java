@@ -1,3 +1,13 @@
+/* 
+Faça um programa que leia o salário de uma pessoa e exiba o desconto do INSS segundo a tabela a seguir.
+
+<= R$ 600,00                 ==> Isento
+> R$ 600,00 e <= R$ 1200     ==> 20%
+> R$ 1200,00 e <= R$ 2000,00 ==> 25%
+> R$ 2000,00                 ==> 30%
+
+*/
+
 package exercicios;
 
 import java.util.Scanner;

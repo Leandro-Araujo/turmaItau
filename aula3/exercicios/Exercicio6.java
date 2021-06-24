@@ -1,3 +1,18 @@
+/*
+Escreva um programa que exiba a tabuada do número digitado pelo usuário.
+
+Exemplo: 
+
+valor digitado: 5
+
+5 x 0 = 0
+5 x 1 = 5
+5 x 2 = 10
+...
+5 x 10 = 50
+
+*/
+
 package exercicios;
 
 import java.util.Scanner;

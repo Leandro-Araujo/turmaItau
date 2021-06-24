@@ -1,3 +1,8 @@
+/* 
+A prefeitura do Rio de Janeiro abriu uma linha de crédito para os funcionários estatutários. Entretanto, o valor máximo da prestação não poderá ultrapassar 30% do salário bruto. 
+Faça um programa que leia o salário bruto e o valor da prestação e informe se o empréstimo pode ou não ser concedido. 
+*/
+
 package exercicios;
 
 import java.util.Scanner;
