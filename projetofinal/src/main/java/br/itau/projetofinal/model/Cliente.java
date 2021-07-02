@@ -28,6 +28,16 @@ public class Cliente {
     @Column(name = "email", length = 50, unique = true)
     private String email;
 
+    public Cliente() {}
+
+
+    public Cliente(String nome, String cpf, String telefone, String email) {
+        this.nome = nome;
+        this.cpf = cpf;
+        this.telefone = telefone;
+        this.email = email;
+    }
+
     public long getCodigo() {
         return codigo;
     }
